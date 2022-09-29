@@ -1,0 +1,25 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12",
+    "discord-gamecord": "^2.1.0",
+    "discord-jokenpo": "^1.6.65",
+    "discord.js": "^14.3.0",
+    "djs-games": "^2.1.10",
+    "dotenv": "^16.0.2",
+    "node-fetch": "^3.2.6",
+    "simply-djs": "^3.0.2",
+    "weky": "^3.1.8"
+  }
+}
